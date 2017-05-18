@@ -1,0 +1,65 @@
+.one{
+	background-color: brown;
+	width: 270px;
+	height: 80px;
+	text-align:center;
+}
+
+.two{
+	background-color: yellow;
+	width:500px;
+	height: 700px;
+	font-size: 80%;
+}
+
+.three{
+	background-color:green;
+	margin-top: 20px;
+	width: 140px;
+	height: 120px;
+}
+
+.four{
+	background-color: #00FFFF;
+	width: 150px;
+	height: 120px;
+}
+
+.five{
+	margin-top: 20px;
+	width: 140px;
+	height: 120px;
+}
+
+.six{
+	margin-top: 20px;
+	width: 140px;
+	height: 120px;
+}
+
+.seven{
+	margin-top: 20px;
+	width: 140px;
+	height: 120px;
+}
+
+.eight{
+	margin-top: 20px;
+	width: 140px;
+	height: 120px;
+}
+
+.nine{
+	background-color: #008B8B;
+	margin-top: 20px;
+	width: 270px;
+	height: 70px;
+	
+}
+
+.ten{ 
+	background-color: #008B8B;
+	margin-top: 20px;
+	width: 270px;	
+	height: 120px;
+ }
