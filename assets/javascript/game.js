@@ -28,13 +28,13 @@ $ ("#gems").each(function(){
 
 });
 	
-	// 	if(randomNumGen === totalNum){
-	// 	wins++;
-	// }
+		if(randomNumGen === totalNum){
+		wins++;
+	}
 
-	// 	if(!randomNumGen === totalNum){
-	// 	losses++;
-	// }
+		if(!randomNumGen === totalNum){
+		losses++;
+	}
 		
 
 	// 	for( var i = 0; i <= 12; i++){
