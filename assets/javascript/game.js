@@ -20,7 +20,7 @@ $ ("#gems").each(function(){
 
 				totalNum = random + totalNum;
 
-	$(".ten").append("<h1>" + totalNum + "</h1>")
+	$(".ten").html("<h1>" + totalNum + "</h1>")
 	
 };
 	});
